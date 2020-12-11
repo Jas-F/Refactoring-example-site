@@ -2,12 +2,6 @@
 
 Given a source code I must refactor the origional code into an acceptable format. Refactored HTML tags, semantics, css, img, p, and links.
 
-## List
-### Unordered List
--[Search Engine Optimization](search-engine-optimization)
--[Online Reputation Management](online-reputation-management)
--[Social Media Marketing](social-media-marketing)
-
 ===========
 ![Image](/assets/images/Screenshot.png)
 
@@ -46,24 +40,9 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <h2>Cost Management</h2>
 
-<p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
+<p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p
 
 <br>
-
-<h2>Cost Management</h2>
-<p>&copy; UC Berkeley Extension Bootcamp.</p>
-
-
-
-
-
-## Prerequisites
-
-Git hub
-Git lab
-Git bash
-Visual studio
-Google chrome
 
 ## Built With
 
@@ -75,6 +54,19 @@ Google chrome
 
 * [See Live Site](https://jas-f.github.io/Refactoring-example-site/)
 
+## License
+
+This project is licensed under the MIT License 
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## Prerequisites
+
+Git hub
+Git lab
+Git bash
+Visual studio
+Google chrome
 ## Authors
 
 ```
@@ -84,11 +76,6 @@ Google chrome
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/in/jasmine-franklin-8b08ba121)
 ```
-
-## License
-
-This project is licensed under the MIT License 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<p>&copy; UC Berkeley Extension Bootcamp.</p>
 
 
