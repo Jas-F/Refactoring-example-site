@@ -43,8 +43,7 @@ Given a source code I must refactor the origional code into an acceptable format
 <h3>Lead Generation</h3>
 
 ==========
-
-![Image]("./assets/images/lead-generation.png")
+![site](./assets/images/lead-generation.png)
 
 <p>Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.</p>
 
@@ -53,8 +52,7 @@ Given a source code I must refactor the origional code into an acceptable format
 <h3> Brand Awareness <h3>
 
 ==========
-
-![Image]("./assets/images/brand-awareness.png")
+![site](./assets/images/brand-awareness.png)
 
 <p>Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.</p>
 
@@ -63,7 +61,7 @@ Given a source code I must refactor the origional code into an acceptable format
 <h3>Cost Management</h3>
 
 =========
-![Image](./assets/images/cost-management.png)
+![Site](./assets/images/cost-management.png)
 
 <p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
 
@@ -76,15 +74,13 @@ Given a source code I must refactor the origional code into an acceptable format
 
 
 
-### Prerequisites
+## Prerequisites
 
-```
 Git hub
 Git lab
 Git bash
 Visual studio
 Google chrome
-```
 
 ## Built With
 
@@ -98,12 +94,13 @@ Google chrome
 
 ## Authors
 
-* **Jasmine Franklin** 
+```
+*Jasmine Franklin* 
 
 - [Link to Portfolio Site](https://github.com/Jas-F/responsive-portfolio)
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/in/jasmine-franklin-8b08ba121)
-
+```
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
