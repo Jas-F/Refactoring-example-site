@@ -7,6 +7,8 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <br>
 
+
+
 <h2>Search Engine Optimization</h2>
 
 <P> The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
@@ -35,8 +37,6 @@ Given a source code I must refactor the origional code into an acceptable format
 <h2> Brand Awareness <h2>
 
 <p>Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.</p>
-
-<br>
 
 <h2>Cost Management</h2>
 
