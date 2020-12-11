@@ -32,19 +32,19 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <br>
 
-<h3>Lead Generation</h3>
+<h2>Lead Generation</h2>
 
 <p>Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.</p>
 
 <br>
 
-<h3> Brand Awareness <h3>
+<h2> Brand Awareness <h2>
 
 <p>Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.</p>
 
 <br>
 
-<h3>Cost Management</h3>
+<h2>Cost Management</h2>
 
 <p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
 
