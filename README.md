@@ -9,7 +9,7 @@ Given a source code I must refactor the origional code into an acceptable format
 -[Social Media Marketing](social-media-marketing)
 
 ===========
-![Image](./assets/images/search-engine-optimization.jpg)
+![Image](/assets/images/Screenshot.png)
 
 <br>
 
@@ -20,19 +20,11 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <br>
 
-==========
-![Image](./assets/images/online-reputation-management.jpg)
-
-<br>
-
 <h2> Online Reputation Managment</h2>
 
 <p> The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.</p>
 
 <br>
-
-==========
-![Image](./assets/images/social-media-marketing.jpg)
 
 <h2> Social Media Marketing</h2>
 
@@ -42,26 +34,17 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <h3>Lead Generation</h3>
 
-==========
-![Image](./assets/images/lead-generation.png)
-
 <p>Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.</p>
 
 <br>
 
 <h3> Brand Awareness <h3>
 
-==========
-![Image](./assets/images/brand-awareness.png)
-
 <p>Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.</p>
 
 <br>
 
 <h3>Cost Management</h3>
-
-=========
-![Image](./assets/images/cost-management.png)
 
 <p>As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.</p>
 
