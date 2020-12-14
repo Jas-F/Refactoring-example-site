@@ -87,13 +87,12 @@ Visual studio
 Google chrome
 ## Authors
 
-```
-*Jasmine Franklin* 
+**Jasmine Franklin** 
 
 - [Link to Portfolio Site](https://github.com/Jas-F/responsive-portfolio)
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/in/jasmine-franklin-8b08ba121)
-```
+
 <p>&copy; UC Berkeley Extension Bootcamp.</p>
 
 
