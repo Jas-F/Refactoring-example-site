@@ -1,6 +1,8 @@
-# Refactoring-code-example-site
+# Refactoring Code Example Site
 
-Given a source code I must refactor the origional code into an acceptable format. Refactored HTML tags, semantics, css, img, p, and links.
+As a marketing agency
+I want a codebase that follows accessibility standards
+so that our own site is optimized for search engines.
 
 <br>
 
@@ -11,7 +13,7 @@ Given a source code I must refactor the origional code into an acceptable format
 
 <br>
 
-## Condense Css Elements
+## Condense CSS Elements
 
 ```
 .benefit-lead, .benefit-cost, .benefit-brand {
@@ -22,7 +24,7 @@ Given a source code I must refactor the origional code into an acceptable format
 ```
 <br>
 
-## Correct Html Semantics
+## Correct HTML Semantics
 
 ```
 <article class="content">
@@ -85,6 +87,7 @@ Git lab
 Git bash
 Visual studio
 Google chrome
+
 ## Authors
 
 **Jasmine Franklin** 
